@@ -13,7 +13,7 @@
     "@emotion/styled": "^11.10.4",
     "@ethersproject/constants": "^5.7.0",
     "@ethersproject/contracts": "^5.7.0",
-    "@ethersproject/providers": "^5.7.1",
+    "@ethersproject/providers": "^5.8.0",
     "@mui/material": "^5.10.5",
     "@rainbow-me/rainbowkit": "^0.5.3",
     "bignumber.js": "^9.1.0",
